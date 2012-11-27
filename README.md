@@ -1,4 +1,5 @@
-ofun.github.com
-===============
+ofun.pm
+=======
 
 Optimize for fun
+
