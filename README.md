@@ -1,6 +1,4 @@
 ofun.pm
 =======
 
-Optimize perl for fun
-
-
+Optimize Perl for fun
