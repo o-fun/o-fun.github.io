@@ -6,6 +6,4 @@ What's Perl's thing? Among other things, Python has dead simple syntax, Javascri
 
 Perl's doing great but would do well to step up a notch to insanely great.
 
-YAPC needs a theme.
-
-I think Audrey rocks.
+The YAPC NA 2013 organizer wanted a theme that would work for him and most Perlers.
